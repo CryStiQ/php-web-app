@@ -1,5 +1,4 @@
 <?php
-
-echo "Hello World abuharis testing"
-
+echo ' <img src="maxresdefault.jpg" /> ';
+phpinfo();
 ?>
